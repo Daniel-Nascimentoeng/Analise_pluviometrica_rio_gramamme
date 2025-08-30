@@ -24,7 +24,7 @@ Transformar, organizar e visualizar os dados pluviométricos em diferentes escal
 O **pluviômetro de báscula** é um dos tipos mais modernos de pluviômetros.  
 Ele funciona de forma **automática** e é amplamente utilizado em **estações meteorológicas automáticas** no Brasil, como as do **INMET, ANA e CPRM**.
 
----
+
 
 ## 💡 Curiosidade Hidrológica – Pluviômetro de Báscula
 
@@ -34,14 +34,14 @@ Ele funciona de forma **automática** e é amplamente utilizado em **estações 
 3. Quando um dos lados enche com um volume fixo (ex.: **0,2 mm de chuva**), a báscula **vira**, despejando a água e acionando um **sensor magnético**.  
 4. Cada “basculada” gera um **pulso elétrico**, que é registrado e convertido em **milímetros de precipitação**.  
 
----
+
 
 ### 🔎 Características principais
 - 🌧️ Mede a **chuva acumulada** com alta precisão.  
 - ⏱️ Permite calcular chuva em **tempo real** (minutos, horas, dias).  
 - 📡 Pode ser integrado a **sistemas automáticos de telemetria**.  
 
----
+
 
 ### ⚠️ Limitação
 Em chuvas de **alta intensidade**, o mecanismo pode não bascular rápido o suficiente, o que resulta em uma **subestimativa dos totais de precipitação**.  
